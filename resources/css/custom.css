@@ -1,0 +1,8 @@
+.index .btn {
+    padding: 10px;
+    width: 100%;
+}
+
+.index button span {
+    text-transform: uppercase;
+}
